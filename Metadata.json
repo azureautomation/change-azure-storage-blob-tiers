@@ -1,0 +1,20 @@
+{
+    "Author": "Marc Kean",
+    "ContentSize": 4452,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/change-azure-storage-blob-tiers/master/Azure%20-%20Change%20Azure%20Storage%20Tiers2.ps1",
+    "DownloadCount": 1341,
+    "Id": "Change-Azure-Storage-Blob-2a337b6f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 343,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-5-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will scan a designated storage account for all blobs, it will then set the tier (Hot, Cool or Archive) for each blob that is older then a retention period or days in which you specify.Setting object level access tier is only supported for Standard LRS, GRS, and RA-GRS",
+    "Title": "Change Azure Storage Blob Tiers",
+    "UpdatedDate": "2019-1-29T00:00:00",
+    "Url": "https://github.com/azureautomation/change-azure-storage-blob-tiers",
+    "UserTags": "Storage, Capacity Management, Tiering"
+}
